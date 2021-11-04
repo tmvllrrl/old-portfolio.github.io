@@ -49,6 +49,7 @@ Here is a link to me explaining the project that was submitted to my professor: 
 ## Contact
 
 Personal Email: tmichaelvillarreal@gmail.com
+
 School Email: tmvllrrl@memphis.edu
 
 
