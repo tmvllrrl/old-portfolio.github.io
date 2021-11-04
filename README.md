@@ -17,11 +17,11 @@ This Android app allows me to keep track of what my hedgehog eats and drinks on 
 
 ### Chord System
 
-This app was a quick one that I did for a homework assignment in my distributed systems class. The goal of the homework was to code and demonstrate the chord system.
+This app was a quick one that I did for a homework assignment in my Distributed Systems class. The goal of the homework was to code and demonstrate the Chord System.
 
 <img src="chord_system_example.png" alt="drawing" width="250"/>
 
-Here is a link to the video I submitted to the professor explaining the app: https://youtu.be/XXWSQPFRaxk
+Here is a link to the video I submitted to the professor explaining the app: [Video Link](https://youtu.be/XXWSQPFRaxk)
 
 ### Sent It
 
@@ -31,32 +31,14 @@ This was a personal project of mine that was inspired by one of my hobbies: clim
 
 (The picture used as the thumbnail is a placeholder image for these examples. In the app, the user is required to take a picture of the route in order to save the route.)
 
-```markdown
-Syntax highlighted code block
+### Project Task Manager
 
-# Header 1
-## Header 2
-### Header 3
+This Android application was developed for the course project in my Distributed Systems class. It is a simple and basic task manager. It allows users to login to a system that will list to them all of their projects. When a user selects a project, it will then show them their individual and group tasks and any pictures that relate to the project.
 
-- Bulleted
-- List
+The main requirement for this project was that it had to involve a distributed system. I accomplished this within the app by utilizing Amazon Cloud Services. I used Amazon DynamoDB and Amazon S3 in order to store the information and pictures about each project within the cloud. I used them both together in order to make a small distributed database system.
 
-1. Numbered
-2. List
+Here is a link to me explaining the project that was submitted to my professor: [Video Link](https://youtu.be/xkxTWye2HJ0)
 
-**Bold** and _Italic_ and `Code` text
+## Research
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-![test](loss.png)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tmvllrrl/tmvllrrl.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+My current area of research focuses on using machine learning in computer vision tasks. More specifically, I am working on a project that involves using an autoencoder in order to improve steering angle predictions when the images used to predict those steering angles contain natural perturbations. I am researching trying to train the autoencoder to be robust while also have not too large of a training time.
