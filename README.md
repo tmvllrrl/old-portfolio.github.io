@@ -17,8 +17,13 @@ This Android app allows me to keep track of what my hedgehog eats and drinks on 
 
 ### Chord System
 
-This project was a quick one that I did for a homework assignment in my distributed systems class. The goal of the homework was to code and demonstrate the chord system.
+This app was a quick one that I did for a homework assignment in my distributed systems class. The goal of the homework was to code and demonstrate the chord system.
 
+<img src="chord_system_example.png" alt="drawing" width="250"/>
+
+Here is a link to the video I submitted to the professor explaining the app: https://youtu.be/XXWSQPFRaxk
+
+### Climbing Log
 
 ```markdown
 Syntax highlighted code block
