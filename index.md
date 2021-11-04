@@ -1,5 +1,3 @@
-# Profile
-
 <img src="profile_pic.jpeg" alt="drawing" width="200"/>
 
 Hello! My name is Michael Villarreal, and I am Computer Science PhD student at the University of Memphis. While I do have a variety of different interests, I focus mainly on machine learning and AI. My area of research right now is within the computer vision realm of machine learning as it relates to denoising autoencoders and creating robust models.
