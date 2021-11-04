@@ -1,12 +1,17 @@
-## Hello
+## Michael Villarreal
 
-You can use the [editor on GitHub](https://github.com/tmvllrrl/tmvllrrl.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Michael Villarreal, and I am Computer Science PhD student at the University of Memphis. While I do have a variety of different interests, I focus mainly on machine learning and AI. My area of research right now is within the computer vision realm of machine learning as it relates to denoising autoencoders and creating robust models.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Android Applications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+During the pandemic, I decided to pick up a new skill in order to improve my software development ability! Some of the projects listed below are the culmination of that.
+
+### Sable's Diary
+
+This one was both fun to make and provides great utility for me, and it involves one of my favorite things: my hedgehog Sable! (Yes, she was named after the Animal Crossing character).
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -27,6 +32,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+![test](loss.png)
 
 ### Jekyll Themes
 
