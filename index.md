@@ -1,4 +1,4 @@
-# Michael Villarreal
+# Profile
 
 <img src="profile_pic.jpeg" alt="drawing" width="200"/>
 
