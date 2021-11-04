@@ -42,3 +42,5 @@ Here is a link to me explaining the project that was submitted to my professor: 
 ## Research
 
 My current area of research focuses on using machine learning in computer vision tasks. More specifically, I am working on a project that involves using an autoencoder in order to improve steering angle predictions when the images used to predict those steering angles contain natural perturbations. I am researching trying to train the autoencoder to be robust while also have not too large of a training time.
+
+As I am in my first semester of my PhD, I definitely have a lot to learn about research and want to research more and more topics to expand my horizons. One of my biggest areas of interest is Reinforcement Learning. I have done some studying on Reinforcement Learning and helped a bit with a RL project, but would like to do more and even have my own RL project.
