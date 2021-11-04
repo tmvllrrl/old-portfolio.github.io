@@ -9,8 +9,15 @@ During the pandemic, I decided to pick up a new skill in order to improve my sof
 
 ### Sable's Diary
 
-This one was both fun to make and provides great utility for me, and it involves one of my favorite things: my hedgehog Sable! (Yes, she was named after the Animal Crossing character).
+This one was both fun to make and provides a great utility for me, and it involves one of my favorite things: my hedgehog Sable! (Yes, she was named after the Animal Crossing character).
 
+<img src="sables_diary_example.png" alt="drawing" width="250"/>
+
+This Android app allows me to keep track of what my hedgehog eats and drinks on a daily basis. It allows me to put in the date on which the measurements were taken and allows me to put how much she weighs as well. Keeping track of this information is especially useful as hedgehogs can hide illnesses well and keeping track of this information can allow me to catch if any problems arise.
+
+### Chord System
+
+This project was a quick one that I did for a homework assignment in my distributed systems class. The goal of the homework was to code and demonstrate the chord system.
 
 
 ```markdown
