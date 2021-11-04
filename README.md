@@ -23,7 +23,11 @@ This app was a quick one that I did for a homework assignment in my distributed 
 
 Here is a link to the video I submitted to the professor explaining the app: https://youtu.be/XXWSQPFRaxk
 
-### Climbing Log
+### Sent It
+
+This was a personal project of mine that was inspired by one of my hobbies: climbing. I really love climbing, and I love climbing all sorts of routes with all sorts holds. Whether its crimps, slopers, jugs, slab, toe-hook, knee drop, etc., I will get on it and try to climb; however, one problem is that, in indoor climbing gyms, the route setters change the walls every so often. Because of this, I decided to code an app that would allow me to record the routes that I had climbed. The app allows me to name the route, record its grade, where I climbed it, and a description of it. It also allows me to take a picture of the route, which it uses as a thumbnail. I added the ability to record sending the route as well to the app, but this feature can be improved.
+
+
 
 ```markdown
 Syntax highlighted code block
