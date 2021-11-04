@@ -27,7 +27,9 @@ Here is a link to the video I submitted to the professor explaining the app: htt
 
 This was a personal project of mine that was inspired by one of my hobbies: climbing. I really love climbing, and I love climbing all sorts of routes with all sorts holds. Whether its crimps, slopers, jugs, slab, toe-hook, knee drop, etc., I will get on it and try to climb; however, one problem is that, in indoor climbing gyms, the route setters change the walls every so often. Because of this, I decided to code an app that would allow me to record the routes that I had climbed. The app allows me to name the route, record its grade, where I climbed it, and a description of it. It also allows me to take a picture of the route, which it uses as a thumbnail. I added the ability to record sending the route as well to the app, but this feature can be improved.
 
+<img src="sent_it_example.png" alt="drawing" width="250"/>
 
+(The picture used as the thumbnail is a placeholder image for these examples. In the app, the user is required to take a picture of the route in order to save the route.)
 
 ```markdown
 Syntax highlighted code block
